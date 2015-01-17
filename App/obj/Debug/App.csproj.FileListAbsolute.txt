@@ -1,0 +1,6 @@
+C:\Projects\300\App\bin\App.dll.config
+C:\Projects\300\App\bin\App.dll
+C:\Projects\300\App\bin\App.pdb
+C:\Projects\300\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Projects\300\App\obj\Debug\App.dll
+C:\Projects\300\App\obj\Debug\App.pdb
